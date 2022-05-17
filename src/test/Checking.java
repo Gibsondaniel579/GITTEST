@@ -7,7 +7,7 @@ public class Checking {
 	@Test
 	public void testCaseOne()
 	{
-		System.out.println("Here, its my first testcase");
+		System.out.println("Here, Its my first testcase");
 	}
 
 }
