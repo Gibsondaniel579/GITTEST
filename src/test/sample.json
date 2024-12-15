@@ -1,0 +1,22 @@
+{
+	"employees": [
+		{
+			"name": "Shyam",
+			"email": "shyamjaiswal@gmail.com"
+			"place":"Chennai"
+			"courses":["C","C++"]
+		},
+		{
+			"name": "Bob",
+			"email": "bob32@gmail.com"
+			"place":"Madurai"
+			"courses":["Java","Python"]
+		},
+		{
+			"name": "Jai",
+			"email": "jai87@gmail.com"
+			"place":"Chennai"
+			"courses":["Go","C#"]
+		}
+	]
+}
